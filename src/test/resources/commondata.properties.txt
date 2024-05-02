@@ -1,0 +1,4 @@
+un standard_user
+PWD secret_sauce
+browser edge
+https://www.saucedemo.com
